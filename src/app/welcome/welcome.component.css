@@ -1,0 +1,18 @@
+  .card-class{
+    margin: 2%;
+    width: 25%;
+    text-align: left;
+    float: left;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+}
+
+img {
+  width: 200px ;
+  height: 300px;
+}
